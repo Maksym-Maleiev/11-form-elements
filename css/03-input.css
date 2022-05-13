@@ -1,0 +1,113 @@
+/* Атрибут Autofocus */
+
+/* input {
+  padding: 8px;
+  font-family: inherit;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+} */
+
+/* Атрибут placeholder */
+
+/* input {
+  padding: 8px;
+  font-family: inherit;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+} */
+
+/* Почта и пароль */
+
+/* input {
+  padding: 8px;
+  font-family: inherit;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+} */
+
+/* Радио-кнопка (переключатель) */
+
+/* .wrapper {
+  display: flex;
+}
+
+label {
+  display: flex;
+  align-items: center;
+}
+
+label:not(:last-child) {
+  margin-right: 15px;
+}
+
+input {
+  margin-right: 5px;
+} */
+
+/* Чекбоксы (флажки) */
+
+/* .wrapper {
+  display: flex;
+}
+
+label {
+  display: flex;
+  align-items: center;
+}
+
+label:not(:last-child) {
+  margin-right: 15px;
+}
+
+input {
+  margin-right: 5px;
+} */
+
+/* Числа */
+
+/* label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+} */
+
+/* Ползунки */
+
+/* label {
+  display: flex;
+  align-items: center;
+} */
+
+/* Дата и время */
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  font-family: inherit;
+}

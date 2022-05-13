@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Элемент &lt;datalist&gt;</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css"
+    />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/06-datalist.css" />
+  </head>
+  <body>
+    <a href="./index.html">Назад на главную!</a>
+
+    <h1>Элемент &lt;datalist&gt;</h1>
+
+    <!-- Example-1 -->
+
+    <!-- <form>
+      <label for="fav"> Choose your favourite browser </label>
+      <input list="browsers" name="fav" id="fav" />
+
+      <datalist id="browsers">
+        <option>Edge</option>
+        <option>Firefox</option>
+        <option>Chrome</option>
+        <option>Opera</option>
+        <option>Safari</option>
+      </datalist>
+    </form> -->
+
+    <!-- Example-2 -->
+
+    <form>
+      <label for="state">Choose your state</label>
+      <input type="text" name="state" id="state" list="states" />
+
+      <datalist id="states">
+        <option value="AL">Alabama</option>
+        <option value="AK">Alaska</option>
+        <option value="AZ">Arizona</option>
+        <option value="AR">Arkansas</option>
+      </datalist>
+    </form>
+  </body>
+</html>

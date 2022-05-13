@@ -1,0 +1,20 @@
+/* select {
+  display: flex;
+  margin: 5px 0 15px 0;
+  font-size: 18px;
+}
+
+button {
+  padding: 5px 15px;
+} */
+
+/* Групировка опций */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select {
+  display: flex;
+  font-size: 12px;
+}
